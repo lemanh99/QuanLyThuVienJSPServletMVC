@@ -28,7 +28,7 @@ git clone https://github.com/lemanh99/QuanLyThuVienLapTrinhJSP_Servlet_MoHinhMVC
 
 2. Cài đặt Java : [Java JDK 13](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html)
 
-3. Download database: [here](database/manage_library.sql) hoặc truy cập [thư mục](database)
+3. Download database: [here](Database/manage_library.sql) hoặc truy cập [thư mục](Database)
 
 4. Cài đặt môi trường lập trình
  - [Eclipse](https://www.eclipse.org/downloads/)
